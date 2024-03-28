@@ -1,6 +1,8 @@
 # cloud-class
 - 클래스명: Cloud에서 DevOps까지, Cloud Native 개념 이해
    
+- 학습목표: Cloud 서비스 및 DevOps 개념 이해하기
+   
 - 학습계획 
   - 1회차. Cloud 서비스 개요   
   - 2회차. Cloud (AWS) 주요 서비스 이해하기   
