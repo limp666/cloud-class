@@ -1,4 +1,4 @@
-# [과정] Cloud에서 DevOps까지, Cloud Native 개념 이해
+# Cloud에서 DevOps까지, Cloud Native 개념 이해
    
 - 학습목표: Cloud 서비스 및 DevOps 개념 이해하기
    
